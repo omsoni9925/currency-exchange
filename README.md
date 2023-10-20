@@ -47,5 +47,5 @@ This is a simple React application for converting currency from one currency to 
 
 - React
 - JavaScript
-- CSS
+- Tailwind CSS
 - External API for currency exchange rates
