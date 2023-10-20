@@ -31,7 +31,7 @@ This is a simple React application for converting currency from one currency to 
 4. Start the development server:
 
    ```
-   npm start
+   npm run dev
    ```
 
 5. Open your web browser and go to [http://localhost:5173](http://localhost:5173) to use the app.
