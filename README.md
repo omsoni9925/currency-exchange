@@ -1,6 +1,3 @@
-Certainly! Here's a sample README.md for your currency conversion app:
-
-```markdown
 # Currency Conversion App
 
 This is a simple React application for converting currency from one currency to another. It uses real-time currency conversion rates obtained from a public API.
@@ -37,7 +34,7 @@ This is a simple React application for converting currency from one currency to 
    npm start
    ```
 
-5. Open your web browser and go to [http://localhost:3000](http://localhost:3000) to use the app.
+5. Open your web browser and go to [http://localhost:5173](http://localhost:5173) to use the app.
 
 ## Usage
 
@@ -52,11 +49,3 @@ This is a simple React application for converting currency from one currency to 
 - JavaScript
 - CSS
 - External API for currency exchange rates
-
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-Make sure to replace the `./app-screenshot.png` link with an actual screenshot of your app if you have one. Additionally, consider providing installation instructions, usage details, and credits relevant to your project.
